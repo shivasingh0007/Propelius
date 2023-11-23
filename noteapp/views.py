@@ -57,7 +57,7 @@ class NoteDetailView(generics.RetrieveUpdateDestroyAPIView):
     permission_classes = [IsAuthenticated]
     queryset = Note.objects.all()
     serializer_class = NoteSerializer
-
+    
 
 
 class NoteView(generics.ListAPIView):
