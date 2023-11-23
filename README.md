@@ -36,3 +36,7 @@ In this project two models are created
 5. NoteView :- This view class use for Note Pagination and search view handeling
 
 6. LogoutView :- This view class use for user logout view handeling
+
+
+# User Authentication 
+For user authenticaton i am using here simple_jwt authentication
