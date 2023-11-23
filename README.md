@@ -2,6 +2,8 @@
 
 In this project two models are created 
 
+# This project is built using Ubuntu OS
+
 # model.py of Basic Details
 
 1. User Model :-this model is custome model which is use for Register New User.
